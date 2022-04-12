@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+/* header and footer */
+header, footer {
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+    background-color:  orange;
+    color: black;
+}
+
+/* nav */
+
+
+li{
+    padding-right: 10px;
+}
+/* nav list */
+ul {
+    display: inline-flex;
+}
